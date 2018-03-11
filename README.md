@@ -3,7 +3,7 @@ What the project does? The project is a non verbal application of Amazon. It has
 
 Why the project is useful? It is useful for people who do not want a voice response. It also for people who prob cannot hear but still want to take advantage of a Amazon like application.
 
-How users can get started with the project? They can get started by typing: node liri.js (then selecting the items). Once chosen, they can purchase them. 
+How users can get started with the project? They can get started by typing: node server.js (then selecting the items). Once chosen, they can purchase them. 
 
 Where users can get help with your project? They can get help for this project from the Coding Bootcamp at UT.
 
